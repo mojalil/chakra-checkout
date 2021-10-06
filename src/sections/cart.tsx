@@ -6,7 +6,7 @@ import {
   AspectRatio,
   Stack,
 } from "@chakra-ui/layout";
-import { Image } from "@chakra-ui/react";
+import { Divider, Image } from "@chakra-ui/react";
 
 const Cart = () => {
   return (
@@ -55,6 +55,7 @@ const Cart = () => {
           <Text color="gray.600">Taxes (Estimated)</Text>
           <Heading size="sm">$23.80</Heading>
         </HStack>
+        <Divider />
         <HStack justifyContent="space-between">
           <Text color="gray.600">Total</Text>
           <Heading size="lg">$162.79</Heading>
