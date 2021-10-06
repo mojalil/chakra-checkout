@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chakra Checkout
 
-## Chakra UI 
-
-See:  https://egghead.io/lessons/react-install-and-setup-chakra-ui-in-a-react-project
+This is a checkout page developed with Chakra UI
 
 ## Getting Started
 
