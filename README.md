@@ -1,6 +1,9 @@
 # Chakra Checkout
 
-This is a checkout page developed with Chakra UI
+This is a checkout page developed with Chakra UI. See the design below.
+
+![2021-10-07 at 1 02 AM](https://user-images.githubusercontent.com/10572843/136250286-5c75d9d2-f6c0-4abe-8934-85b3c3659446.png)
+
 
 ## Getting Started
 
